@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/idDatabase"
+
+          android:title="Database" />
+    <item android:id="@+id/idAbc"
+          android:title="abc" />
+    <!--android:icon="@drawable/ic_menu_login_3"-->
+</menu>
